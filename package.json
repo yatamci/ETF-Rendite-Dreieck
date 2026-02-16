@@ -1,0 +1,23 @@
+{
+  "name": "etf-rendite-dreieck",
+  "version": "1.0.0",
+  "description": "ETF Rendite-Dreieck mit MSCI World und anderen Welt-ETFs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "etf",
+    "msci-world",
+    "rendite",
+    "investment"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
